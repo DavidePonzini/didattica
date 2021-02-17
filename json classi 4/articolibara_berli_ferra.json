@@ -1,0 +1,40 @@
+
+    [
+
+	{
+        "name": "PIETRO I IL GRANDE",
+        "description": "Con questo monopattino direte addio ai limiti di altezza con Pietro I il grande puoi viaggiare in sicurezza! sospensioni efficaci, il manubrio regolabile in altezza, ti condurre alle porte del paradiso",
+        "price": 399.99,
+        "img": "res/pietro1ilgrande.jpg"
+    },
+    
+    {
+        "name": "BELLA BICI",
+        "description": "Ottima bicicletta a pedalata assistita in grado di darti tutto il sostegno fisico e morale che ti serve per spostarti i città e con tante salite. Provalo che tu sia sei giovane e non abbia sbatti di pedalare o che tu sia un cinquantenne senza forza nelle gambe non farà differenza!!!!",
+        "price": 1200,
+        "img": "res/bici1.jpg"
+    },
+    
+    {
+        "name": "LIMITATE CAPACITA' MOTORIE",
+        "description": "Non farti ingannare dal colore un pò particolare, per quello si può pensare di cambiarlo! Preoccupati piuttosto delle novità di questo monopattino:dal momento che due non bastavano, la terza ruota installata su questo modello ti permetterà di viaggiare ad alte velocità, altro che Trenitalia coi suoi ritardi!",
+        "price": 399,
+        "img": "res/limitatecapacitàmotorie.jpg"
+    },
+    
+    {
+        "name": "BIGGYM",
+        "description": "Ti sei stancato del grigiore dell'asfalto, oppure devi percorrere strade dissestate? BigGym è il caso che fa per te!ammortizzatori anteriori e posteriori, e due grandi gomme da fuoristrada completano l'allestimento necessario per percorrere strade sterrate in modo confortevole e del tutto sicuro.E",
+        "price": 499.99,
+        "img": "res/risparmiatelo.jpg"
+    },
+    
+    {
+        "name": "SEGWAY DEI POVERI",
+        "description": "Pratico segway a due ruote per i tuoi spostamenti cittadini. Comodo veloce e durevoele per non rimanere mai a piedi nelle indaffarate giornate di vita (quelle che non si vedono da febbraio)",
+        "price": 1800,
+        "img": "res/segwaydeipoveri.jpg"
+    },
+    
+
+]
