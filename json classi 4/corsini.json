@@ -7,15 +7,13 @@
 },
 {
  "name": "Roma",
- "description": "Viaggio estremamente interessante nella capitale di uno dei paesi più belli del mondo.
- Roma è conosciuta in tutto il mondo per moltissime caratteristiche proprie di questa splendida metropoli quali: l'arte, la gastronomia, la stoia, il cinema, i paesaggi urbani romantici e le sue chiese famose in tutto il mondo.",
+ "description": "Viaggio estremamente interessante nella capitale di uno dei paesi più belli del mondo. Roma è conosciuta in tutto il mondo per moltissime caratteristiche proprie di questa splendida metropoli quali: l'arte, la gastronomia, la stoia, il cinema, i paesaggi urbani romantici e le sue chiese famose in tutto il mondo.",
  "price": 1000,
  "img": "res/Roma1.jpeg"
 },
 {
  "name": "Honolulu",
- "description": "Prenditi una vacanza a Honolulu.
- La capitale delle Hawaii, Honolulu, è il centro del governo, dei trasporti e del commercio dello stato, ma è anche la porta di ingresso preferita dai turisti in arrivo nell'arcipelago dei sogni. Merito sicuramente della famosa spiaggia Waikiki Beach, ma anche del fascino delle contraddizioni di Honolulu.",
+ "description": "Prenditi una vacanza a Honolulu. La capitale delle Hawaii, Honolulu, è il centro del governo, dei trasporti e del commercio dello stato, ma è anche la porta di ingresso preferita dai turisti in arrivo nell'arcipelago dei sogni. Merito sicuramente della famosa spiaggia Waikiki Beach, ma anche del fascino delle contraddizioni di Honolulu.",
  "price": 1700,
  "img": "res/Honolulu1.jpeg"
 },
