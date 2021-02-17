@@ -1,0 +1,38 @@
+[
+	{
+		"name": "ECCENTRIC",
+		"description": "Vestito completo in blu zaffiro puro.",
+		"price": 2100,
+		"img": "res/artcl-1.png"
+	},
+	{
+		"name": "VICTORIUS",
+		"description": "Outfit decisamente provocatorio ma allo stesso tempo enormemente spavaldo.",
+		"price": 1300,
+		"img": "res/artcl-2.png"
+	},
+	{
+		"name": "MY WARNING SINGS",
+		"description": "Giacca e pantaloni neri con dettagli grigi a dir poco egregi.",
+		"price": 1200,
+		"img": "res/artcl-3.png"
+	},
+	{
+		"name": "STILL IN PROCESS",
+		"description": "Cappotto leopardato (hai addosso un animale).",
+		"price": 2600,
+		"img": "res/artcl-4.png"
+	},
+	{
+		"name": "BACK IN TIME",
+		"description": "Un ritorno al passato.",
+		"price": 1600,
+		"img": "res/artcl-5.png"
+	},
+	{
+		"name": "TROPICAL",
+		"description": "Imamagina di essere in mezzo alla terra, questo è l'outfit adatto a te.",
+		"price": 1500,
+		"img": "res/artcl-6.png"
+	}
+]
