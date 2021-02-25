@@ -2,7 +2,7 @@
     {
         "name": "APRILIA RS 125",
         "description": "Il cuore di Aprilia RS 125 è un moderno e tecnologico monocilindrico 125 cc., 4T 4 valvole ad iniezione elettronica, raffreddato a liquido: affidabile su strada e generoso in pista, è dotato di tecnologie particolarmente raffinate come la distribuzione a doppio albero a camme in testa.",
-        "price": 5.200,
+        "price": 5200,
         "img": "res/aprilia/apriliars125.jpg"
         
     },
@@ -10,413 +10,413 @@
     {
         "name": "APRILIA SX 125",
         "description": " Aprilia SX 125 vanta contenuti sportivi al top, alte prestazioni e un design fortemente distintivo. L'unica moto in questo segmento a vantare l'impianto frenante con ABS solo sulla ruota anteriore. La rinnovata SX 125 vanta un raffinato design, prestazioni importanti ed una tecnologia avanzata che la include tra le moto destinate a chi vuole distinguersi fin dal debutto in due ruote. Questa moto è nata per regalare grandi soddisfazioni di guida a chiunque ne impugni il manubrio." ,
-        "price": 4.000,
+        "price": 4000,
         "img": "res/aprilia/apriliasx125.jpg"
     },
     
     {
         "name": "APRILIA RS 660",
         "description": "Personalità sportiva e linee contemporanee che stupiscono, RS 660 porta su strada l’esperienza da leader in pista di Aprilia. Il design unico plasma una moto leggera e compatta, dai volumi agili e filanti, stabile alle alte velocità, divertente e piacevole da guidare. La gamma colori di RS 660 sfoggia un inedito Acid Gold che esalta il design e il carattere dinamico e giovane della moto.",
-        "price": 11.000,
+        "price": 11000,
         "img": "res/aprilia/apriliars660.jpg"
     },
     
     {
         "name": "APRILIA SHIVER",
         "description": "La Aprilia shiver 900 vanta il sistema APRILIA MIA integrato alla strumentazione di bordo. Una soluzione innovativa che consente di connettere lo smartphone alla moto e visualizzare sul cruscotto TFT le indicazioni del navigatore satellitare, effettuare chiamate, ascoltare musica e ricevere informazioni aggiuntive sul veicolo. Spinta da un raffinato bicilindrico da 900 cc, da sempre Shiver 900 regala grandi soddisfazioni alla guida, senza togliere nulla al comfort ed alla managevolezza, caratteri distintivi del veicolo.",
-        "price": 8.300, 
+        "price": 8300, 
         "img": "res/aprilia/apriliashiver900.jpg"
     },
     
     {
-        "name": "APRILIA DORSODURO 90",
+        "name": "APRILIA DORSODURO 900",
         "description": " Lunga 2.216 mm e alta minimo 870 mm con un peso a secco di 186 Kg. Motore termico a 4 tempi a 2 cilindri a V con emissioni euro 4 con raffreddamento a liquido. La cilindrata è pari a 896,1 cc che esprime una potenza di 95,2 cv che va in coppia a 6.500 rpm. Cambio meccanico con trasmissione finale a catena.",
-        "price": 9.500,
+        "price": 9500,
         "img": "res/aprilia/apriliadorsoduro900.jpg"
     },
     
     {
         "name": "APRILIA V4 1100 FACTORY",
         "description":"La nuova Factory è la versione dedicata ad un pubblico estremamente esigente e dotata di componentistica in gran parte derivata dalla sorella supersportiva RSV4 1100 FACTORY. La Factory dispone di una serie di particolari in fibra di carbonio e di sospensioni elettroniche semiattive, le più evolute attualmente disponibili sul mercato. Massima facilità di calibrazione, attraverso semplici comandi al manubrio, per un’esperienza di guida ancora più eccitante in ogni ambito di utilizzo.",
-        "price": 26.000,
+        "price": 26000,
         "img": "res/aprilia/apriliav41100factory.jpg"
     },
     
     {
         "name": "BETA ALP 200",
         "description": " La piccola Alp 200 è un vero e proprio must di Beta in grado di mantenere invariate tutte le caratteristiche che nel tempo l’hanno resa un vero successo nel segmento del fuoristrada. Si tratta infatti del miglior mezzo disponibile per praticare motoalpinismo, capace di arrampicarsi lungo i più ardui sentieri montani, dove nemmeno le più grandi e potenti moto da Enduro saprebbero arrivare. Ma nel suo habitat naturale rientrano anche le strade bianche e la quotidianità cittadina; il tutto mantenendo bassissimi costi di gestione nemmeno lontanamente paragonabili alle off-road specialistiche.",
-        "price": 4.700,
+        "price": 4700,
         "img": "res/beta/betaalp200.jpg" 
     },
     
     {
         "name": "BETA EVO 250",
         "description": "Rispetto al precedente modello, adotta un telaio più compatto e semplificato, con una livrea più semplice, con l'adozione dello scarico risuonante su tutte le cilindrate con motore a due tempi, accoppiato ad un nuovo silenziatore, inoltre si ha una nuova centralina d'accensione digitale, con doppia mappatura. In più, oltre a varie modifiche, per le sole 250 e 290 si ha anche un nuovo collettore di scarico più leggero e che offre una progressione più lineare e la nuova pompa freno posteriore con serbatoio integrato.",
-        "price": 7.000,
+        "price": 7000,
         "img": "res/beta/betaevo250.jpg"
     },
     
     {
         "name": "BETA RR ENDURO 125",
         "description": "La RR Enduro 125 è il classico Enduro dalle misure importanti. Si tratta di una moto lunga 2.145 mm, alta 1.200 mm con un'altezza minima da terra per la sella di 915 mm. Il peso a secco è pari a 101 Kg. Il motore termico in dotazione è un Euro 3 da 124 cc a 4 tempi monocilindrico con raffreddamento ad aria.",
-        "price": 4.900,
+        "price": 4900,
         "img": "res/beta/betarrenduro125.jpg"
     },
     
     {
         "name": "BETA RR ENDURO 480",
         "description": "Prodotto dal 2005, modello con sospensione anteriore Marzocchi Shiver da ø 45 mm, monoammortizzatore posteriore con leveraggio progressivo e altri vari dettagli che lo distanziano dalla produzione base dei 250 e 400.Nel 2010 anch'esso viene rinnovato con motore Beta e telaio dedicato, verrà anche allestita una versione Factory con forcelleMarzocchi Shiver da ø 50 mm, scarico racing e varie parti in carbonio ed ergal.",
-        "price": 9.300,
+        "price": 9300,
         "img": "res/beta/betarrenduro480.jpg"
     },
     
     {
         "name": "BETA RR MOTARD 125",
         "description": "Prodotto dal 2006 questo modello monta praticamente una ciclistica uguale al 50 base, con differenze minime non apprezzabili nell'utilizzo quotidiano, il motore è un tranquillo monocilindrico 4T a 5 marce che presenta consumi molto contenuti a prestazioni con potenza massima rilevata alla ruota 10,5 Cv. Questo e il modello di cilindrata inferiore hanno subito vari restyling, di solito effettuati nell'autunno, presentando ogni anno un modello stilisticamente differente che però ispirava sempre in modo vago i modelli Enduro che corrono nei vari campionati nazionali e mondiali.",
-        "price": 4.900,
+        "price": 4900,
         "img": "res/beta/betarrmotard125.jpg" 
     },
     
     {
         "name": "BETA XTRAINER 300",
         "description": "La moto è caratterizzata da un monocilindrico 2 tempi da 293 cc che promette tanta coppia ai bassi e un'erogazione lineare grazie alla presenza del contralbero. Una moto pensata per l'enduro più estremo, ma senza rinunciare alle comodità di sistemi elettronici quali il miscelatore e l'avviamento.",
-        "price": 7.000,
+        "price": 7000,
         "img": "res/beta/betaxtrainer300.jpg" 
     },
     
     {
         "name": "BMW G 310 R",
         "description": "La forza della G 310 R è la sua leggerezza e agilità. Il motore a quattro tempi monocilindrico da 313 cm³ ti offre puro divertimento non solo nel trambusto del centro cittadino, ma anche quando ridefinisci con curve rapide i confini della città.",
-        "price": 5.350,
+        "price": 5350,
         "img": "res/bmw/BMWG310R.jpg"
     },
     
     {
         "name": "BMW S 1000 XR",
         "description": "Ed ecco che la potenza si risveglia: la nuova BMW S 1000 R entra finalmente in scena. Una roadster dinamica all'esterno, con un cuore da superbike all'interno: l'assetto e il motore hanno tutti i geni della RR, per garantire la massima agilità e una precisione millimetrica nella guida.",
-        "price": 14.000,
+        "price": 14000,
         "img": "res/bmw/bmws1000xr.jpg"
     },
     
     {
         "name": "BMW Concept R18",
         "description": "La BMW Concept R18 presenta un’avvincente alternativa ad un momento storico sempre più caratterizzato da rapidi cambiamenti tecnologici. Si potrebbe considerare un ritorno alle origini del brand, con l’aggiunta di un tocco moderno. Questa moto mostra come l’aggiornamento di un motore boxer degli anni '60 possa, al giorno d’oggi, risultare minimalista in una moto custom unito a tutte le icone del design classico di BMW Motorrad.",
-        "price": 22.200,
+        "price": 22200,
         "img": "res/bmw/BMWConceptR18.jpg"
     },
     
     {
         "name": "BMW F 750 GS",
         "description": " Questa moto è spinta da un motore bicilindrico in linea a quattro tempi raffreddato a liquido, di 798 cm³ di cilindrata, con 4 valvole per cilindro, due alberi a camme in testa, lubrificazione a carter secco; il motore ha una potenza massima di 55 kW  a 7.300 giri/min ed una coppia massima di 77 Nm a 5.300 giri/min. La F 750 GS è una moto destinata all'uso stradale ma che non disdegna leggere escursioni in fuoristrada, versatile e maneggevole, con una impostazione di guida comoda.",
-        "price": 11.000,
+        "price": 11000,
         "img": "res/bmw/BMWF750GS.jpg"
     },
     
     {
         "name": "BMW HP4 RACE", 
         "description": "la HP4 Race non si qualifica per nessuna serie di gare ed è stata realizzata per mostrare l'abilità tecnologica del produttore piuttosto che per l'omologazione. La maggior parte degli elementi di design e del motore proviene dalla S1000RR, con molti componenti ritarati per prestazioni più elevate e l'aggiunta  di una maggiore regolazione. Ha un telaio interamente in fibra di carbonio dal peso di 7,8 kg (17 libbre) e anche la carenatura ne fa ampio uso. Le HP4 Races hanno il controllo della trazione e dell'impennata e un cambio rapido e poiché è solo per uso in pista, non ha luci o specchietti.",
-        "price": 80.000,
+        "price": 80000,
         "img": "res/bmw/BMWHP4RACE.jpg"
     },
     
     {
         "name": "BMW GS 1200",
         "description": "La GS (abbreviazione di Gelände Strasse, ovvero Fuoristrada/Strada) 1200 rappresenta l'ideale evoluzione del modello precedente dal quale si differenzia, oltre per l'accresciuta cubatura (da 1.130 a 1.170 cm³) e una sostanziale riduzione di peso (dichiarato in 203 kg a secco) per numerose migliorie tecniche tra le  quali spiccano le parti in magnesio e il contralbero di equilibratura. Numerose le modifiche al motore che portano la potenza oltre i 100 CV. Riviste anche le geometrie delle sospensioni Paralever e Telelever i cui componenti sono in una nuova lega di alluminio più leggero.",
-        "price": 12.000,
+        "price": 12000,
         "img": "res/bmw/BMWGS1200.jpg"
     },
     
     {
         "name": "DUCATI PANIGALE",
         "description": "I modelli Panigale V4 e Panigale V4 S sono equipaggiati inoltre con nuove pompe freno e frizione autospurganti derivate da quelle impiegate per la prima volta sulla Superleggera V4. Tra le dotazioni aggiunte alla moto per il 2021 c’è la pinna paracatena, un’accortezza importante per la sicurezza, che permette di evitare pericolosi contatti con catena e corona in caso di scivolata. Inoltre, per chi usa la moto tutto l’anno, è ora prevista la predisposizione per le manopole riscaldate, mentre la chiave di accensione ha una nuova impugnatura, più moderna ed elegante.",
-        "price": 27.000,
+        "price": 27000,
         "img": "res/ducati/ducatipanigale.jpg"
     },
     
     {
         "name": "DUCATI SCRAMBLER",
         "description": "Le ragioni del successo commerciale dello Scrambler sono molteplici. Innanzitutto, il telaio eccezionale e poi il motore tagliato su misura per la sua funzione. Non era la moto più veloce dei suoi tempi, ma le prestazioni globali e la posizione di guida perfettamente centrata ne hanno fatto una delle moto più godibili del periodo. Inoltre, era estremamente elegante, con le sue linee arrotondate, classiche e moderne insieme, e i colori vivaci a far contrasto con la ciclistica nera e il serbatoio cromato. Lo Scrambler era universalmente considerato come il punto di incontro tra le scuole di motociclismo americana ed europea. Era una moto estremamente modaiola, a tutt'oggi ancora molto amata.",
-        "price": 9.000,
+        "price": 9000,
         "img": "res/ducati/ducatiscrambler450.jpg"
     },
     
     {
         "name": "DUCATI SUPERSPORT",
         "description": "Ducati SuperSport coniuga comfort e versatilità grazie a soluzioni che la rendono perfetta per l’utilizzo sulle strade di tutti i giorni. Il design, sportivo ed elegante, integra elementi tipici delle sportive Ducati come il forcellone monobraccio, il serbatoio scultoreo e il silenziatore laterale compatto a due uscite sovrapposte, che lascia completamente a vista il cerchio posteriore dal disegno a “Y” delle razze.",
-        "price": 14.000,
+        "price": 14000,
         "img": "res/ducati/ducatisupersport.jpg"
     },
     
     {
         "name": "DUCATI HYPERMOTARD",
         "description": "Con questa moto viene introdotta l’evoluzione del propulsore della famiglia Testastretta 11°, sempre con cilindrata di 937 cm³ e una potenza massima che raggiunge i 114,5 CV con omologazione antinquinamento Euro 4. Il telaio a traliccio impiega ora tubi a sezione differenziata, grazie ai quali risulta più leggero e compatto. Il design riprende alcuni elementi della prima generazione, quali i doppi terminali di scarico collocati sotto la sella e il telaietto reggisella in traliccio. Le sospensioni vengono aggiornate e comprendono una forcella Marzocchi da 45mm e un monoammortizzatore Sachs, entrambi regolabili. Sul piano dell'elettronica arriva la nuova piattaforma inerziale a sei assi IMU 6D abbinata a sistemi quali l'ABS cornering, il controllo di trazione evoluto DTC Evo e il controllo dell'impennata DWC Evo.",
-        "price": 15.000,
+        "price": 15000,
         "img": "res/ducati/ducatihypermotard939.jpg"
     },
     
     {
         "name": "DUCATI SUPER LEGGERA V4",
         "description": "Estrema sintesi di eccellenza ingegneristica, tecnologia all’avanguardia e design dalle forme aerodinamiche. La nuova Superleggera V4 rappresenta il sogno di realizzare l’unica due ruote al mondo omologata per uso stradale con telaio, forcellone e cerchi in fibra di carbonio, per un imbattibile rapporto potenza/peso di 1,54 CV/kg.",
-        "price": 100.000,
+        "price": 100000,
         "img": "res/ducati/ducatisuperleggerav4.jpg"
     },
     
     {
         "name": "DUCATI MONSTER 821 STEALTH",
         "description": "La gamma Monster 821 si completa con la nuova versione Stealth: livrea nero opaco, nuove grafiche dedicate e cupolino conferiscono un carattere unico alla naked Ducati per eccellenza, mentre la dotazione di serie, che include forcella regolabile e Ducati Quick Shift up/down, lo rende ancora più efficace sulla strada. Volumi, silhouette, serbatoio e proiettore caratterizzano il design del Monster 821 e restano fedeli alle linee originali della moto nata nel 1993 pur rivisitandole in chiave moderna.",
-        "price": 11.000,
+        "price": 11000,
         "img": "res/ducati/ducatimonster821stealth.jpg"
     },
     
     {
         "name": "HARLEY DAVIDSON LIVE WIRE",
         "description": "Il modello LiveWire è una nuova moto completamente elettrica; un nuovo modello esaltante e suggestivo progettato per offrire al pilota un'esperienza motociclista ad alte prestazioni infusa con un nuovo livello di tecnologia e l'aspetto premium di un prodotto Harley-Davidson. Spinta dalla coppia immediata del propulsore completamente elettrico H-D Revelation, la moto LiveWire è in grado di accelerare rapidamente con una semplice torsione dell'acceleratore: non è richiesta alcuna frizione o cambio di marcia. Le prestazioni sono ottimizzate per il ciclista urbano. Il modello LiveWire è il primo di un ampio portafoglio di due ruote elettriche progettate per stabilire Harley-Davidson come leader nell'elettrificazione delle motociclette.",
-        "price": 34.200,
+        "price": 34200,
         "img": "res/harleydavidson/harleylivewire.jpg"
     },
     
     {
         "name": "HARLEY DAVIDSON LOW RIDER S",
         "description": "La nuova moto Low Rider S adotta un approccio all'inizio delle prestazioni che enfatizza la potenza, la maneggevolezza agile e il controllo migliorato del pilota combinato con il tradizionale carattere Harley-Davidson. La maneggevolezza del telaio Softail è migliorata da componenti di sospensione premium ottimizzati per una guida aggressiva alimentata dalla potenza di un muscoloso motore Milwaukee-Eight 114. Gli spunti stilistici della scena di costruzione costiera includono un manubrio rialzato, mini carenatura, sedile da solista e finiture blacked-out.",
-        "price": 20.300,
+        "price": 20300,
         "img": "res/harleydavidson/harleylowriders.jpg"
     },
     
     {
         "name": "HARLEY DAVIDSON ROAD GLIDE",
         "description": "Il nuovo modello Road Glide Limited sostituisce il modello Road Glide Ultra per il 2020 e offre nuove caratteristiche premium di turismo di lusso, tra cui strisce a spillo verniciate, carenatura interna con finitura lucida, impugnature riscaldate per le mani del ciclista, ruote Slicer II Contrast Bright e nuovi medaglioni del parafango anteriore e posteriore. Il modello Road Glide Limited è uno specialista itinerante a lungo raggio con la caratteristica carena aerodinamica del naso di squalo Road Glide con doppie doppie a doppio flusso che limitano il buffeting della testa del ciclista. Il motore Milwaukee-Eight 114 di serie offre prestazioni touring fluide e potenti, mentre i doppi fari a LED Daymaker offrono un'eccezionale visibilità notturna.",
-        "price": 26.000,
+        "price": 26000,
         "img": "res/harleydavidson/harleyroadglide.jpg"
     },
     
     {
         "name": "HARLEY DAVIDSON CVO FAT FOB",
         "description": "Nella sua immagine spiccano le doppie ottiche anteriori, le ruote lenticolari da 16 pollici in alluminio su cui erano montati pneumatici molto larghi. Soprattutto, la parte anteriore con la sua pinna di dimensioni contenute e la parte posteriore del tipo Bobtail, cioè ritagliata nell'immagine dei modelli dragster di accelerazione.",
-        "price": 28.000,
+        "price": 28000,
         "img": "res/harleydavidson/harleycvo.jpg"
     },
     
     {
         "name": "HARLEY DAVIDSON SPORTSTER",
         "description": "La Sportster è uno dei modelli più famosi della casa motociclistica Harley-Davidson nonché il più longevo. È una motocicletta sprovvista di carenature protettive, dalla linea classica ma sportiva nell'accezione più tradizionale del termine; nella maggior parte degli allestimenti la linea è storicamente caratterizzata dalla forma a nocciolina ('peanut' in inglese) del singolare piccolo serbatoio, originariamente della capacità massima di soli 8,5 l, successivamente aumentata a 12 l e oltre.",
-        "price": 10.000,
+        "price": 10000,
         "img": "res/harleydavidson/harleysportster.jpg"
     },
     
     {
         "name": "HARLEY DAVIDSON SOFTAIL",
         "description": "Una moto sportiva ispirata ai modelli per gare d'accelerazione. Seduta bassa con serbatoio allungato e coda tronca a sbalzo che mette in risalto l'imponente pneumatico posteriore da 240 mm. Nuovi il filtro aria esterno a sbalzo che ricorda i filtri racing della Screamin Eagle, e lo scarico 2 in 1 con finale triangolare. Contraddistinta da numerose parti in leghe leggere ed il forcellone in alluminio, che consentono di ottenere un peso totale a 303 kg, migliorando le prestazioni sportive. Monta il motore Milwaukee-Eight 114 che sviluppa 100,57 CV con una coppia di 160 Nm.",
-        "price": 13.900,
+        "price": 13900,
         "img": "res/harleydavidson/harleysoftail.jpg"
     },
     
     {
         "name": "HONDA CB 500F",
         "description": "Adatta anche ai possessori di patente A2, la CB500F è riconoscibile per le sue linee aggressive e muscolose e per le dimensioni compatte, monta un bicilindrico parallelo raffreddato a liquido 8 valvole che eroga 48 CV, avvolto in un telaio in acciaio con struttura a diamante, sportivo e leggero. Il cambio a 6 rapporti è dotato di frizione assistita con antisaltellamento, ma quello che non è da dimenticare è il manubrio biconico, per un controllo e un comfort di guida ottimali. Passiamo alle ruote, che sono da 17” in alluminio pressofuso e presentano 6 razze a Y. Il peso in ordine di marcia e con il pieno di benzina è di 189 kg. Il serbatoio del carburante ha una capacità di 17,1 litri e, grazie ai consumi piuttosto ridotti, l’autonomia supera gli 480 km.",
-        "price": 6.200,
+        "price": 6200,
         "img": "res/honda/hondacb500f.jpg"
     },
     
     {
         "name": "HONDA CBR 500R",
         "description": "Grazie alle nuove taglienti ed aggressive linee che incorporano le inedite alette aerodinamiche, la nuova CBR 500R è decisamente più sportiva e si avvicina al dinamismo estremo della Fireblade. Questa moto monta un potente motore bicilindrico bialbero a 8 valvole che regala grandi emozioni. Ha un preciso cambio a sei marce per partenze decise e allunghi all’inseguimento della zona rossa del contagiri. Tutto questo insieme ai numerosi dettagli rendono unica questa moto.",
-        "price": 6.300,
+        "price": 6300,
         "img": "res/honda/honda_cbr_500r.jpg"
     },
     
     {
         "name": "HONDA CB 125 R",
         "description": "La CB125R regala prestazioni grintose racchiuse in una silhouette elegante, offrendo un'esperienza di guida entusiasmante per tutti i motociclisti. Sorella minore della CB1000R e appartenente alla famiglia Neo Sports Café, si distingue per lo stile audace che avvolge un fantastico telaio tubolare in acciaio. Un quadro strumenti LCD di ultima generazione e l'illuminazione full LED sono dotazioni premium della nuova CB125R, ma quello che attirerà davvero la tua attenzione sono la potenza extra del nuovo motore DOHC da 125cc ed il feeling che regala la forcella Showa SFF-BP.",
-        "price": 4.100,
+        "price": 4100,
         "img": "res/honda/hondacb125r.jpg"
     },
     
     {
         "name": "HONDA CB 500X",
         "description": "La CB500X è stata progettata con sospensioni a lunga escursione, ammortizzatore monotubo, manubrio biconico rialzato e una ruota anteriore da 19''. La compatta di Honda è dotata di un telaio in tubo di diamante in acciaio da 35 mm leggero e resistente che si adatta facilmente ai cambi di superficie. Il motore bicilindrico parallelo (35 kW, 48 CV), compatibile  con la patente A2, offre un buon compromesso in termini di coppia e potenza. La potenza massima è di 35 kW e arriva a 8.500 giri/min, con una coppia di 43 Nm erogata a 7.000 giri/min. La CB500X, inoltre, è dotata di un cambio a sei marce e di una frizione  assistita con antisaltellamento che agevola i cambi di marcia.",
-        "price": 5.800,
+        "price": 5800,
         "img": "res/honda/hondacb500x.jpg"
     },
     
     {
         "name": "HONDA CB 1000 R",
         "description": "Pura ed essenziale, è una moto potente e aggressiva, che punta molto sull'aspetto minimalista sottolineato dal motore e dai componenti meccanici verniciati in nero intenso. Tutte le luci della CB1000R sono a led, con un sottile faro tondo anteriore dal caratteristico effetto luminoso a ferro di cavallo.",
-        "price": 14.000,
+        "price": 14000,
         "img": "res/honda/hondacb1000r.jpg"
     },
     
     {
         "name": "HONDA CRF 400 RX",
         "description": "Sviluppata da RedMoto sulla base della CRF 450RX Enduro, la nuova CRF 400RX Enduro è concepita e sviluppata con il concetto della fruibilità del motore addolcendo la risposta al tocco del gas e l’erogazione del motore per adattarlo alle esigenze di tutti gli appassionati del marchio Honda. Come nel caso della CRF450RX, per il 2021 la CRF400RX è stata completamente aggiornata in ogni sua parte, eccetto le ruote e “la base” del motore, attingendo direttamente al know-how acquisito dal Team Ufficiale Enduro.  Pesa 2,3 kg in meno del modello precendente ed è dotata di un telaio e un forcellone nuovi che, insieme alle modifiche alla geometria e alle sospensioni, consentono di migliorare notevolmente le prestazioni in curva.",
-        "price": 11.500,
+        "price": 11500,
         "img": "res/honda/hondacrf400rx.jpg"
     },
     
     {
         "name": "KAWASAKI ZX-10RR",
         "description": "Una simbiosi di elementi funzionali assieme a cerchi Marchesini realizzati per questo modello e pneumatici Pirelli Diablo Supercorsa SP. Si segnala una potenza massima di 204 cavalli e 214 con airbox in pressione a 14.000 giri/minuto e un valore di coppia di 111,8 Nm a 11.700 giri/minuto.",
-        "price": 27.000,
+        "price": 27000,
         "img": "res/kawasaki/kawasakininjazx10rr.jpg"
     },
     
     {
         "name": "KAWASAKI NINJA 250",
         "description": "Questa motocicletta è considerata come la 'entry level' della gamma Kawasaki Ninja, perché sono presenti tutte le caratteristiche di una moto da corsa di grande cilindrata e dimensioni in una moto di cilindrata e dimensioni inferiori, in modo da riprendere le linee delle sorelle maggiori Ninja ZX-6R e Ninja ZX-10R.",
-        "price": 5.000,
+        "price": 5000,
         "img": "res/kawasaki/kawasakininja250.jpg"
     },
     
     {
         "name": "KAWASAKI ZX 6R",
         "description": "La Kawasaki ZX-6R/RR è una motocicletta sportiva in produzione dal 1995. Con questo modello la casa motociclistica prosegue l'uso del telaio in alluminio, introdotto per la prima volta nella categoria sulla ZZR 600 del 1990. Il motore, a seconda delle versioni, ha una cilindrata di 599 o di 636cm³ e sviluppa una potenza da 100 a 130cv.",
-        "price": 12.000,
+        "price": 12000,
         "img": "res/kawasaki/kawasakininjazx6r.jpg"
     },
     
     {
         "name": "KAWASAKI NINJA H2R",
         "description": "Le dimensioni della Kawasaki Ninja H2R sono le seguenti: la lunghezza della moto è di 2.070 mm, la larghezza è di 850 mm e l'altezza generale si stanzia sui 130 mm. L'altezza della sella, invece, è pari a 830 mm mentre l'avancorsa e l'interasse misurano rispettivamente 108 mm e 1.450 mm.",
-        "price": 55.000,
+        "price": 55000,
         "img": "res/kawasaki/kawasakininjah2r.jpg"
     },
     
     {
         "name": "KAWASAKI Z 1000",
         "description": "Il motore della Kawasaki Z1000 è un quattro cilindri in linea, 4 tempi, raffreddato a liquido. La potenza è pari a 142 CV con 104.5 kW a 10.000 giri/min e una coppia di 111 Nm a 7.300 giri/min. Il cambio è meccanico a 6 marce, mentre la frizione APTC multidisco in bagno d’olio con comando a cavo garantisce un azionamento della leva dal carico molto leggero e offre il vantaggio supplementare di un’ottima modulabilità. La cilindrata è di 1043 cc mentre la velocità massima della moto è di circa 237,7 km/h, con un’accelerazione da 0 a 100 km/h in 3,8 secondi.",
-        "price": 12.800,
+        "price": 12800,
         "img": "res/kawasaki/kawasakiz1000.jpg"
     },
     
     {
         "name": "KAWASAKI 1000 SX",
         "description": "È generalmente caratterizzato come un fratello completamente carenato dello streetfighter Z1000, che condivide lo stesso motore a quattro tempi a iniezione elettronica da 1.043 cc raffreddato a liquido, 16 valvole e telaio backbone a doppio tubo in alluminio, ma con ergonomia, portaoggetti, serbatoio del carburante più grande e altri elementi di design più orientati al mercato dello sport touring. Il Ninja 1000 è inoltre dotato di un limitatore di velocità elettronico, non perché sia ​​in grado di superare i 300 km/h ma apparentemente per mantenere la sua velocità massima uguale a l'ingiusta e illimitata Z1000.",
-        "price": 14.000,
+        "price": 14000,
         "img": "res/kawasaki/kawasakininja1000sx.jpg"
     },
     
     {
         "name": "KTM Duke 125",
         "description": "Questa moto è stata costruita con lo stesso impegno dedicato alle moto più grandi, e lo dimostra. Il motore monocilindrico a 4 tempi con iniezione elettronica e la trasmissione a 6 rapporti uniscono prestazioni ai vertici della sua classe con un consumo di carburante che permette di viaggiare più a lungo.",
-        "price": 3.250,
+        "price": 3250,
         "img": "res/ktm/ktmduke125.jpg"
     },
     
     {
         "name": "KTM SX 125",
         "description": "La KTM 125 SX è la più compatta e leggera tra le moto full-size e garantisce una padronanza di guida come nessun'altra. Una ciclistica leggera si abbina al più competitivo motore a 2 tempi da 125 cm³ della sua classe, offrendo  livelli superiori di agilità e potenza per rispondere alle esigenze di tutti i giovani in cerca di una scarica di adrenalina.",
-        "price": 3.700,
+        "price": 3700,
         "img": "res/ktm/ktmsx125.jpg"
     },
     
     {
         "name": "KTM Duke 790",
         "description": "La KTM 790 DUKE è tremendamente precisa. L'agilità che ti aspetteresti da un monocilindrico, combinata con la spinta poderosa di un bicilindrico. La KTM 790 DUKE sa essere veloce dove conta: nelle curve. Scivola dinamicamente da una curva all'altra, portandoti nel vivo dell'azione",
-        "price": 5.250,
+        "price": 5250,
         "img": "res/ktm/ktmduke790.jpg"
     },
     
     {
         "name": "KTM RC 200",
         "description": "KTM RC 200 è il primo passo nella filosofia READY TO RACE di KTM. Essa attira l'attenzione per il suo stile eccezionale. Il motore da 200 cc combina le massime prestazioni con un efficiente chilometraggio. Componenti premium come la forcella anteriore a steli rovesciati di WP, il display multifunzionale completamente digitale e la pinza freno radiale completano il pacchetto, rendendo la KTM RC 200 una motocicletta full-carenata dall'ottimo rapporto qualità-prezzo.",
-        "price": 3.500,
+        "price": 3500,
         "img": "res/ktm/ktmrc200.jpg"
     },
     
     {
         "name": "KTM EXC 250",
         "description": "Il modello più piccolo della gamma KTM a 4 tempi morde in maniera sorprendentemente feroce per le sue dimensioni. Con il suo motore ultracompatto e potente, il peso ridotto al minimo e l'incredibile maneggevolezza, rappresenta un'ottima scelta sia per i piloti amatoriali motivati che per i professionisti. la KTM 250 EXC-F presenta un leggero telaio a traliccio in acciaio che contribuisce a renderla ancora più facile da guidare, ispirando totale fiducia nel pilota e favorendo i passi in avanti nella guida.",
-        "price": 3.400,
+        "price": 3400,
         "img": "res/ktm/ktmexc250.jpg"
     },
     
     {
         "name": "KTM RC 390",
         "description": "Una moto sportiva nella sua forma più pura. Agile, rapida, adatta alla patente di guida A2 ed estremamente sportiva. Sia sulle strade di campagna che in pista, il DNA della Moto3 si manifesta in ogni manovra e garantisce sensazioni da gara.",
-        "price": 4.500,
+        "price": 4500,
         "img": "res/ktm/ktmrc390.jpg"
     },
     
     {
         "name": "SUZUKI GSX-R 125",
         "description": "La rivoluzionaria Suzuki GSX-R125, ha il miglior rapporto potenza-peso, il miglior rapporto coppia-peso e la migliore accelerazione della categoria. In più è agile e consuma poco. Ha una carrozzeria aerodinamica, altezza della sella più bassa, strumento LCD multifunzione, fari a LED, un sistema di messa in moto innovativo che utilizza la tecnologia “key-less” e” one-push”. Si tratta di una moto affidabile progettata per rendere al meglio tra gli ingorghi cittadini, ma capace di regalare grandi emozioni sulle strade di campagna.",
-        "price": 4.500,
+        "price": 4500,
         "img": "res/suzuki/suzukigsxr125.jpg"
     },
     
     {
         "name": "SUZUKI GSX-S 125",
         "description":  "Il telaio in tubi di acciaio combina una buona rigidità torsionale con un peso davvero ridotto. L'interasse della moto misura 1.300 millimetri. La GSX-S125 pesa soli 133 kg, ed ha un'altezza sella di soli 785 millimetri, rendendo facile per chiunque mettere entrambi i piedi a terra quando ci si ferma.",
-        "price": 4.300,
+        "price": 4300,
         "img": "res/suzuki/suzukigsxs125.jpg"
     },
     
     {
         "name": "SUZUKI S 750 YUGEN",
         "description": "La Suzuki GSX-S 750 Yugen Carbon è una naked davvero divertente ed equilibrata, caratterizzata da un gran gusto nella guida. Motore quasi elettrico nell’erogazione, elettronica semplice e una ciclistica sana e collaudata trasmettono una sensazione appagante di guida quasi “analogica”, tipica delle moto che si usavano prima dell’avvento degli “aiuti” elettronici. Una vera naked tuttofare adatta veramente a tutti, esperti e non, che fa della versatilità, del divertimento e della facilità di guida i suoi assi nella manica. Pur essendo un naked sportiva si adatta bene a tutti i tipi di utilizzo, dal commuting urbano alle gite fuori porta con gli amici verso i passi di montagna preferiti.",
-        "price": 9.000,
+        "price": 9000,
         "img": "res/suzuki/suzukigsxs750yugen.jpg"
     },
     
     {
         "name": "SUZUKI GSX-S 1000 F",
         "description": "Unisce prestazioni e comfort in un'unica incredibile stradale dal cuore 'racing'.La GSX-S1000F si presenta con cupolino fumè, leve freno/frizione e pedaline nere, ed è sempre più performante grazie ad un potente motore da 149,6 CV (110 kW a 10.000 giri/min.) e alla frizione antisaltellamento.",
-        "price": 13.000,
+        "price": 13000,
         "img": "res/suzuki/suzukigsxs1000f.jpg"
     },
     
     {
         "name": "SUZUKI KATANA 1000",
         "description": "Questa nuova versione è basata sulla GSX-S1000F ed è alimentata da un motore GSX-R1000 K5 2005-2006 con una potenza dichiarata di 110 kW. Il peso della nuova Katana arriva a 215 kg con il telaio in lega a doppia trave del telaio GSX-S, le forcelle invertite, il forcellone GSX-R e le pinze anteriori Brembo. Il suo stile rende omaggio al design originale del 1981.",
-        "price": 13.600,
+        "price": 13600,
         "img": "res/suzuki/suzukikatana1000.jpg"
     },
     
     {
         "name": "SUZUKI SV-650 X",
         "description": "Il bicilindrico a V da 645 cc non tradisce mai. Un motore che riesce a mantenere la sua verve col passare degli anni e che si fa apprezzare per prontezza e erogazione. I 76 CV di potenza massima a 8.500 giri esaltano il carattere sportivo di questa cafe racer, così come i 64 Nm di coppia, che arrivano a quota 8.100.",
-        "price": 7.000,
+        "price": 7000,
         "img": "res/suzuki/suzukisv650x.jpg"
     },
     
     {
         "name": "YAMAHA TRACER 9",
         "description": "La moto Sport Touring più venduta in Europa è stata completamente ridisegnata, con un motore a 3 cilindri 890cc di cilindrata superiore, che produce una coppia ancora più potente per un'accelerazione inebriante. Sia che tu spinga su strade di montagna tortuose sia che copra grandi distanze in autostrada, il nuovo telaio leggero garantisce l'agilità di una moto sportiva insieme alla stabilità di una Sport Touring, da solo o con passeggero. Una nuova IMU a 6 assi controlla i sistemi elettronici di assistenza al pilota che offrono un controllo preciso su diverse superfici e condizioni meteo, mentre i due schermi TFT e l'illuminazione LED completano le specifiche di questo versatile modello  Sport Touring. Con una capacità di carico di 3 valigie complete e un'autonomia di oltre 350 km, la TRACER 9 è stata progettata per accendere le tue emozioni e farti vivere nuove straordinarie sensazioni.",
-        "price": 10.650,
+        "price": 10650,
         "img": "res/yamaha/yamahatracer9.jpg"
     },
     
     {
         "name": "YAMAHA MT 125", 
         "description": "Dotata di un motore hi-tech conforme alle norme EURO 5, di una carrozzeria mass-forward compatta e di un aggressivo design MT di ultima generazione, questo inedito ed entusiasmante modello classe 125 non ha eguali. Perciò, preparati a scoprire il pilota oscuro che c'è in te. Con il loro stile dinamico, la scocca essenziale e le prestazioni entusiasmanti, non sorprende che i modelli MT di Yamaha abbiano attirato tanti piloti nel lato oscuro del Giappone. Questa famiglia di moto è in continua evoluzione. La radicale MT-125 è pronta a garantire ancora più prestazioni, grinta e adrenalina nella classe 125.",
-        "price": 3.750,
+        "price": 3750,
         "img": "res/yamaha/yamahamt125.jpg"
     },
     
     {
         "name": "YAMAHA TENERE 700",
         "description": "Spinta da un motore bicilindrico parallelo 689 cc e dotata di una speciale trasmissione ottimizzata che ti consente di avere il rapporto perfetto tra potenza e controllo, questa moto pensata per il rally e le avventure su lunghe distanze è stata realizzata in modo da potersi adattare perfettamente a qualsiasi condizione di guida su asfalto e sterrato. Il telaio tubolare compatto e la silhouette snella offrono la massima agilità, sia durante la guida da seduto sia in piedi, mentre le sospensioni a lunga escursione e i cerchi a raggi ti consentono di raggiungere qualunque destinazione. Fai il pieno e parti. Sei tu a decidere il prossimo orizzonte.",
-        "price": 8.900,
+        "price": 8900,
         "img": "res/yamaha/yamahatenere700.jpg"
     },
     
     {
         "name": "YAMAHA SCR 950",
         "description": "Stai forse tornando alla guida, o pensi di passare a una moto di cilindrata superiore? In ogni caso è difficile resistere alle linee essenziali, alla posizione di guida naturale e allo stile sempreverde di SCR950. Fatta per affrontare di tutto, dalle vie trafficate ai sentieri non asfaltati, è una scrambler urban che rappresenta un nuovo modo di godersi le due ruote. Con le pulsazioni del suo bicilindrico a V e la classica ciclistica con doppio ammortizzatore, è una moto carismatica che cattura lo spirito del motociclismo, e trasforma ogni guida in un'occasione speciale.",
-        "price": 7.800,
+        "price": 7800,
         "img": "res/yamaha/yamahascr950.jpg"
     },
     
     {
         "name": "YAMAHA R 125",
         "description": "Come ogni moto R-Series, la R125 discende direttamente dalle moto da corsa ufficiali YZR-M1, che dominano regolarmente il podio in MotoGP. E lo stesso DNA da competizione che offre ai piloti Yamaha lo spunto vincente in pista è quello che rende la R125 un modello dalle prestazioni totali su strada. La propulsione della 125 Supersport definitiva è affidata all'ultimo motore da 125 cc a 4 valvole EU5 con lo speciale sistema Variabile Valve Actuation di Yamaha, che offre una coppia intensa a bassi regimi con un'entusiasmante potenza di giri/min, che consente un'accelerazione rapida, abbrivio veloce, una velocità massima elevata e una straordinaria efficienza alle alte velocità." ,
-        "price": 4.600,
+        "price": 4600,
         "img": "res/yamaha/yamahar125.jpg" 
     },
     
     {
         "name": "YAMAHA XSR 700", 
         "description": "L'evoluto bicilindrico frontemarcia da 689 cc è costruito secondo la filosofia 'crossplane', per un'erogazione di coppia lineare e accelerazioni fantastiche. Lo stile è retrò, ma il telaio è snello e leggero, per un'agilità e una maneggevolezza straordinarie.",
-        "price": 7.500,
+        "price": 7500,
         "img": "res/yamaha/yamahaxsr700.webp"
     }
 ]
