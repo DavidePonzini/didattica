@@ -1,7 +1,6 @@
 
-    [
-
-	{
+    
+[{
         "name": "PIETRO I IL GRANDE",
         "description": "Con questo monopattino direte addio ai limiti di altezza con Pietro I il grande puoi viaggiare in sicurezza! sospensioni efficaci, il manubrio regolabile in altezza, ti condurre alle porte del paradiso",
         "price": 399.99,
@@ -34,7 +33,7 @@
         "description": "Pratico segway a due ruote per i tuoi spostamenti cittadini. Comodo veloce e durevoele per non rimanere mai a piedi nelle indaffarate giornate di vita (quelle che non si vedono da febbraio)",
         "price": 1800,
         "img": "res/segwaydeipoveri.jpg"
-    },
+    }
     
-
 ]
+
