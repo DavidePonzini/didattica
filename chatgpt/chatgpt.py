@@ -1,5 +1,5 @@
 import openai
-from .messages import Message
+from messages import Message
 
 client = openai.OpenAI(api_key='your-api-key-here')
 
